@@ -6,6 +6,8 @@ Loja virtual fictícia desenvolvida com Flutter
 
 Aplicativo de uma loja virtual fictícia, com ele é possível fazer diversas operações, como visualizar o produto, selecionar o tamanho adequado, adicionar seus produtos ao carrinho para finalizar a sua compra, acompanhar o status do seu pedido entre outra funcionalidades.
 
+Gerenciamento de estado feito com Scoped Model.
+
 Dependências utilizadas:
 
   cupertino_icons: ^0.1.2
